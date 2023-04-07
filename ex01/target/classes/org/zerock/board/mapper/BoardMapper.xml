@@ -10,11 +10,10 @@
 		select rownum rnum, no, title, writer, writeDate, hit
 		from(
 			select no, title, writer, writeDate, hit
-			from board
+			from board order by no desc
 		)
 	)
 	where rnum between #{startRow} and #{endRow}
-	order by no desc
 	</select>
 	
 	<select id="getTotalRow" resultType="Long">
