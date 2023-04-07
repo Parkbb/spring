@@ -9,6 +9,7 @@
 	
 	<!-- Root Context: defines shared resources visible to all other web components -->
 	
+	
 	<!-- DBCP 설정 -->
 	<bean id="hikariConfig" class="com.zaxxer.hikari.HikariConfig">
 <!-- 		<property name="driverClassName" value="oracle.jdbc.driver.OracleDriver" /> -->
@@ -32,5 +33,6 @@
 	<mybatis-spring:scan base-package="org.zerock"/>
 	
 	<context:component-scan base-package="org.zerock" />
+	
 		
 </beans>

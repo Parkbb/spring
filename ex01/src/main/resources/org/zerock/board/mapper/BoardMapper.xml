@@ -13,8 +13,12 @@
 			from board
 		)
 	)
-	where rnum between 1 and 10
+	where rnum between #{startRow} and #{endRow}
 	order by no desc
+	</select>
+	
+	<select id="getTotalRow" resultType="Long">
+		select count(*) from board
 	</select>
 	
 	<select id="view" resultType="org.zerock.board.vo.BoardVO">
