@@ -15,7 +15,21 @@
 		display: none;
 	}
 </style>
+<!-- reply 객체를 가져오기 -->
+
+<script type="text/javascript" src="/js/reply.js"></script>
+
 <script type="text/javascript">
+
+	$(function(){
+		console.log(replyService);
+		replyService.list(
+			{page:1, no:${vo.no}}, 
+			function(data){
+				alert(data);
+			});
+	});
+
 	$(function(){
 		$('#deleteBtn').click(function(){
 			$('#deleteDiv').slideDown();
