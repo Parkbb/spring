@@ -20,7 +20,7 @@ import lombok.extern.log4j.Log4j;
 @RequestMapping("/board")
 @Log4j
 public class BoardController {
-
+	
 	private String module = "board";
 	
 	@Autowired
@@ -48,11 +48,12 @@ public class BoardController {
 	}
 	
 	@PostMapping("/write.do")
-	public String write(BoardVO vo, RedirectAttributes rttr) {
+	public String write(BoardVO vo, RedirectAttributes rttr, long perPageNum) {
 		log.info("게시판 글쓰기 처리");
 		service.write(vo);
 		rttr.addFlashAttribute("msg", "글 등록이 완료되었습니다. 목록으로 돌아갑니다.");
-		return "redirect:list.do";
+		return "redirect:list.do?perPageNum=" + perPageNum;
+
 	}
 	
 	@GetMapping("/update.do")

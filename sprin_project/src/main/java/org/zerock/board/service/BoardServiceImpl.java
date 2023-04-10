@@ -1,5 +1,7 @@
 package org.zerock.board.service;
 
+import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.log;
+
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -27,9 +29,10 @@ public class BoardServiceImpl implements BoardService{
 	}
 
 	@Override
-	public BoardVO view(long no,int inc) {
+	public BoardVO view(long no, int inc) {
 		// TODO Auto-generated method stub
-		if(inc ==1) mapper.increase(no);
+		if(inc == 1) mapper.increase(no);
+		System.out.println("여기");
 		return mapper.view(no);
 	}
 

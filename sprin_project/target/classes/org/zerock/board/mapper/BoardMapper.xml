@@ -5,7 +5,7 @@
   	<select id="list" resultType="org.zerock.board.vo.BoardVO">
   		select no, title, writer, writeDate, hit
   		from (
-  			select rnum, no, title, writer, writeDate, hit
+  			select rownum rnum, no, title, writer, writeDate, hit
   			from(
   				select no, title, writer, writeDate, hit
   				from board
@@ -26,23 +26,23 @@
   		where no = #{no}
   	</select>
   	
-  	<select id="increase">
+  	<update id="increase">
   		update board set hit = hit + 1
   		where no = #{no}
-  	</select>
+  	</update>
   	
-  	<select id="write">
+  	<insert id="write">
   		insert into board(no, title, content, writer, pw)
   		values(board_seq.nextval, #{title}, #{content}, #{writer}, #{pw})
-  	</select>
+  	</insert>
   	
-  	<select id="update">
+  	<update id="update">
   		update board set title = #{title}, content = #{content}, writer = #{writer}
   		where no = #{no} and pw = #{pw}
-  	</select>
+  	</update>
 
-  	<select id="delete">
+  	<delete id="delete">
   		delete from board
   		where no = #{no} and pw = #{pw}
-  	</select>
+  	</delete>
   </mapper>

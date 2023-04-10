@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import org.zerock.board.service.BoardService;
 import org.zerock.board.vo.BoardVO;
 
@@ -33,8 +34,6 @@ public class BoardController {
 		return "board/list2";
 	}
 	
-	
-	
 	@RequestMapping("/list.do")
 	public String list(@ModelAttribute("pageObject") PageObject pageObject, Model model) {
 		log.info("게시판 리스트......................");
@@ -58,10 +57,11 @@ public class BoardController {
 	}
 	
 	@PostMapping("/write.do")
-	public String write(BoardVO vo) {
+	public String write(BoardVO vo, long perPageNum, RedirectAttributes rttr) {
 		log.info("게시판 글쓰기 처리......................");
 		service.write(vo);
-		return "redirect:list.do";
+		rttr.addFlashAttribute("msg", "글 등록 됨");
+		return "redirect:list.do?perPageNum=" + perPageNum;
 	}
 	
 	@GetMapping("/update.do")
