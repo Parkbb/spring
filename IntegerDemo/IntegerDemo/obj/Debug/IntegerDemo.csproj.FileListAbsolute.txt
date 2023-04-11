@@ -1,0 +1,7 @@
+C:\workspace\spring\IntegerDemo\IntegerDemo\bin\Debug\IntegerDemo.exe.config
+C:\workspace\spring\IntegerDemo\IntegerDemo\bin\Debug\IntegerDemo.exe
+C:\workspace\spring\IntegerDemo\IntegerDemo\bin\Debug\IntegerDemo.pdb
+C:\workspace\spring\IntegerDemo\IntegerDemo\obj\Debug\IntegerDemo.csproj.AssemblyReference.cache
+C:\workspace\spring\IntegerDemo\IntegerDemo\obj\Debug\IntegerDemo.csproj.CoreCompileInputs.cache
+C:\workspace\spring\IntegerDemo\IntegerDemo\obj\Debug\IntegerDemo.exe
+C:\workspace\spring\IntegerDemo\IntegerDemo\obj\Debug\IntegerDemo.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{14F21D8E-057D-4BBA-B2C3-29B3A5DCECD8}</ProjectGuid>
+    <ProjectGuid>{60EBBDEB-716B-4738-A7FD-D79232F99118}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HelloWrold</RootNamespace>
-    <AssemblyName>HelloWrold</AssemblyName>
+    <RootNamespace>IntegerDemo</RootNamespace>
+    <AssemblyName>IntegerDemo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ch05.cs" />
-    <Compile Include="HelloWorldWithCode.cs" />
-    <Compile Include="HelloWorld.cs" />
+    <Compile Include="IntegerDemo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
