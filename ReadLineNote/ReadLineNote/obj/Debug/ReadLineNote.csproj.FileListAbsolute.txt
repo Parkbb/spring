@@ -1,0 +1,7 @@
+C:\workspace\spring\ReadLineNote\ReadLineNote\bin\Debug\ReadLineNote.exe.config
+C:\workspace\spring\ReadLineNote\ReadLineNote\bin\Debug\ReadLineNote.exe
+C:\workspace\spring\ReadLineNote\ReadLineNote\bin\Debug\ReadLineNote.pdb
+C:\workspace\spring\ReadLineNote\ReadLineNote\obj\Debug\ReadLineNote.csproj.AssemblyReference.cache
+C:\workspace\spring\ReadLineNote\ReadLineNote\obj\Debug\ReadLineNote.csproj.CoreCompileInputs.cache
+C:\workspace\spring\ReadLineNote\ReadLineNote\obj\Debug\ReadLineNote.exe
+C:\workspace\spring\ReadLineNote\ReadLineNote\obj\Debug\ReadLineNote.pdb
