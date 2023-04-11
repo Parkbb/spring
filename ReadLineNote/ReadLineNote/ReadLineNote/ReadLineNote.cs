@@ -37,7 +37,7 @@ class ReadLineDemo
 
         var num = 1000;
 
-        var number = num + 1234;
+        var number2 = num + 1234;
 
         // [?] 단항 연산자(Unary Operator): +, -
 
@@ -51,9 +51,11 @@ class ReadLineDemo
         value = -value;
         // 8
 
-        var number2 = 3.14;
+        var number3 = 3.14;
 
-        var number3 = parseInt(3.24);
+
+        // 할당 연산자와 증감 연산자 사용하기
+        
 
 
 
