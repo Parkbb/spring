@@ -73,6 +73,20 @@ class MyClass
         //[3] 문자열 보간법 사용
         Console.WriteLine($"{name} {version}");
 
+        //[?] 논리 자료형: 참(True) 또는 거짓(False) 값 저장
+
+        //[!] 상수(Constant) : 변하지 않는 변수, 읽기 전용 변수
+        //[1] 상수 선언과 동시에 초기화
+        const double PI = 3.14;
+        const string SITE_NAME = "닷넷코리아";
+
+        //래퍼 형식: int, string과 같은 기본 형식을 클래스 또는 구조체로 감싼 .NET 형식
+
+
+
+
+
+
 
 
     }
