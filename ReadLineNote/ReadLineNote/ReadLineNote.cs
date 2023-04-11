@@ -29,6 +29,34 @@ class ReadLineDemo
         Console.WriteLine(str3);
 
 
+        Convert.ToInt32("00001010", 2);
+
+        //[?] var 키워드: 암시적으로 형식화된 로컬 변수
+
+        // 연산자 (Operator): 데이터와 변수를 가지고 더하기(+), 빼기(-)와 같은 연산 작업을 수행
+
+        var num = 1000;
+
+        var number = num + 1234;
+
+        // [?] 단항 연산자(Unary Operator): +, -
+
+        var value = 0;
+        value = 8;
+        // 8
+        value = +value;
+        // 8
+        value = -value;
+        // -8
+        value = -value;
+        // 8
+
+        var number2 = 3.14;
+
+        var number3 = parseInt(3.24);
+
+
+
     }
 
 }
