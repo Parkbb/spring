@@ -1,0 +1,7 @@
+C:\workspace\spring\HelloWrold\HelloWrold\bin\Debug\HelloWrold.exe.config
+C:\workspace\spring\HelloWrold\HelloWrold\bin\Debug\HelloWrold.exe
+C:\workspace\spring\HelloWrold\HelloWrold\bin\Debug\HelloWrold.pdb
+C:\workspace\spring\HelloWrold\HelloWrold\obj\Debug\HelloWrold.csproj.AssemblyReference.cache
+C:\workspace\spring\HelloWrold\HelloWrold\obj\Debug\HelloWrold.csproj.CoreCompileInputs.cache
+C:\workspace\spring\HelloWrold\HelloWrold\obj\Debug\HelloWrold.exe
+C:\workspace\spring\HelloWrold\HelloWrold\obj\Debug\HelloWrold.pdb
