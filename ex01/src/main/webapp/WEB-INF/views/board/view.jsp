@@ -23,12 +23,35 @@
 
 	$(function(){
 		console.log(replyService);
-		replyService.list(
-			{page:1, no:${vo.no}}, 
-			function(data){
-				alert(data);
-			});
+
+
+		var no = ${vo.no};
+		var replyUL = $(".chat");
+
+		showList(1)
+		
+		// 사용 시점 - 게시판 글보기 보여주는 처음 시점, 댓글 등록 후, 댓글 수정 후, 댓글 삭제 후 -> 함수로 만들고 호출
+		
+		function showList(page){
+		
+			// replyService.list() 테스트
+			replyService.list(
+				{
+					page:1,
+					no:no			
+				},
+				function(data){
+	
+					var list = data.list;
+					for(var i = 0;  i< list.length; i++){
+						console.log(list[i]);
+					}
+				}
+			)
+		}
 	});
+
+		
 
 	$(function(){
 		$('#deleteBtn').click(function(){
@@ -49,7 +72,7 @@
 	
 	
 	<div class="card-header py-3">
-		게시판 글보기
+		게시판 글보기2
  	</div>
  	<div class="card-body">
 	<table class="table">
