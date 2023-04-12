@@ -1,0 +1,7 @@
+C:\workspace\spring\C#\StructDemo\StructDemo\bin\Debug\StructDemo.exe.config
+C:\workspace\spring\C#\StructDemo\StructDemo\bin\Debug\StructDemo.exe
+C:\workspace\spring\C#\StructDemo\StructDemo\bin\Debug\StructDemo.pdb
+C:\workspace\spring\C#\StructDemo\StructDemo\obj\Debug\StructDemo.csproj.AssemblyReference.cache
+C:\workspace\spring\C#\StructDemo\StructDemo\obj\Debug\StructDemo.csproj.CoreCompileInputs.cache
+C:\workspace\spring\C#\StructDemo\StructDemo\obj\Debug\StructDemo.exe
+C:\workspace\spring\C#\StructDemo\StructDemo\obj\Debug\StructDemo.pdb
