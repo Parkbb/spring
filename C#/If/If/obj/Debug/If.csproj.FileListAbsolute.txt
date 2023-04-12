@@ -1,0 +1,7 @@
+C:\workspace\spring\C#\If\If\obj\Debug\If.csproj.AssemblyReference.cache
+C:\workspace\spring\C#\If\If\obj\Debug\If.csproj.CoreCompileInputs.cache
+C:\workspace\spring\C#\If\If\bin\Debug\If.exe.config
+C:\workspace\spring\C#\If\If\bin\Debug\If.exe
+C:\workspace\spring\C#\If\If\bin\Debug\If.pdb
+C:\workspace\spring\C#\If\If\obj\Debug\If.exe
+C:\workspace\spring\C#\If\If\obj\Debug\If.pdb
