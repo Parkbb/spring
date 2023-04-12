@@ -1,0 +1,6 @@
+C:\workspace\spring\C#\ConditionalOperator\ConditionalOperator\bin\Debug\ConditionalOperator.exe.config
+C:\workspace\spring\C#\ConditionalOperator\ConditionalOperator\bin\Debug\ConditionalOperator.exe
+C:\workspace\spring\C#\ConditionalOperator\ConditionalOperator\bin\Debug\ConditionalOperator.pdb
+C:\workspace\spring\C#\ConditionalOperator\ConditionalOperator\obj\Debug\ConditionalOperator.csproj.CoreCompileInputs.cache
+C:\workspace\spring\C#\ConditionalOperator\ConditionalOperator\obj\Debug\ConditionalOperator.exe
+C:\workspace\spring\C#\ConditionalOperator\ConditionalOperator\obj\Debug\ConditionalOperator.pdb

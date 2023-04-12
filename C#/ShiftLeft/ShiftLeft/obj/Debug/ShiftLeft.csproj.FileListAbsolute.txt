@@ -1,0 +1,6 @@
+C:\workspace\spring\C#\ShiftLeft\ShiftLeft\bin\Debug\ShiftLeft.exe.config
+C:\workspace\spring\C#\ShiftLeft\ShiftLeft\bin\Debug\ShiftLeft.exe
+C:\workspace\spring\C#\ShiftLeft\ShiftLeft\bin\Debug\ShiftLeft.pdb
+C:\workspace\spring\C#\ShiftLeft\ShiftLeft\obj\Debug\ShiftLeft.csproj.CoreCompileInputs.cache
+C:\workspace\spring\C#\ShiftLeft\ShiftLeft\obj\Debug\ShiftLeft.exe
+C:\workspace\spring\C#\ShiftLeft\ShiftLeft\obj\Debug\ShiftLeft.pdb

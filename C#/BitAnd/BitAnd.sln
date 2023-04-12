@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitAnd", "BitAnd\BitAnd.csproj", "{4A697A05-CC40-4C82-8B0E-73D70A56FE2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A697A05-CC40-4C82-8B0E-73D70A56FE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A697A05-CC40-4C82-8B0E-73D70A56FE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A697A05-CC40-4C82-8B0E-73D70A56FE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A697A05-CC40-4C82-8B0E-73D70A56FE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B81A135-290F-47F5-A1D6-429539A11E82}
+	EndGlobalSection
+EndGlobal

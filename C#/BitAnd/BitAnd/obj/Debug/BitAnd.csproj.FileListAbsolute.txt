@@ -1,0 +1,7 @@
+C:\workspace\spring\C#\BitAnd\BitAnd\bin\Debug\BitAnd.exe.config
+C:\workspace\spring\C#\BitAnd\BitAnd\bin\Debug\BitAnd.exe
+C:\workspace\spring\C#\BitAnd\BitAnd\bin\Debug\BitAnd.pdb
+C:\workspace\spring\C#\BitAnd\BitAnd\obj\Debug\BitAnd.csproj.AssemblyReference.cache
+C:\workspace\spring\C#\BitAnd\BitAnd\obj\Debug\BitAnd.csproj.CoreCompileInputs.cache
+C:\workspace\spring\C#\BitAnd\BitAnd\obj\Debug\BitAnd.exe
+C:\workspace\spring\C#\BitAnd\BitAnd\obj\Debug\BitAnd.pdb
