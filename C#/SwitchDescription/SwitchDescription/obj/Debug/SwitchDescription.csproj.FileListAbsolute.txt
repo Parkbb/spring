@@ -1,0 +1,6 @@
+C:\workspace\spring\C#\SwitchDescription\SwitchDescription\bin\Debug\SwitchDescription.exe.config
+C:\workspace\spring\C#\SwitchDescription\SwitchDescription\bin\Debug\SwitchDescription.exe
+C:\workspace\spring\C#\SwitchDescription\SwitchDescription\bin\Debug\SwitchDescription.pdb
+C:\workspace\spring\C#\SwitchDescription\SwitchDescription\obj\Debug\SwitchDescription.csproj.CoreCompileInputs.cache
+C:\workspace\spring\C#\SwitchDescription\SwitchDescription\obj\Debug\SwitchDescription.exe
+C:\workspace\spring\C#\SwitchDescription\SwitchDescription\obj\Debug\SwitchDescription.pdb
