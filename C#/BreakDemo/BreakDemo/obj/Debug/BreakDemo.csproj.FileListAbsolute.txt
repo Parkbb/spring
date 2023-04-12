@@ -1,0 +1,7 @@
+C:\workspace\spring\C#\BreakDemo\BreakDemo\bin\Debug\BreakDemo.exe.config
+C:\workspace\spring\C#\BreakDemo\BreakDemo\bin\Debug\BreakDemo.exe
+C:\workspace\spring\C#\BreakDemo\BreakDemo\bin\Debug\BreakDemo.pdb
+C:\workspace\spring\C#\BreakDemo\BreakDemo\obj\Debug\BreakDemo.csproj.AssemblyReference.cache
+C:\workspace\spring\C#\BreakDemo\BreakDemo\obj\Debug\BreakDemo.csproj.CoreCompileInputs.cache
+C:\workspace\spring\C#\BreakDemo\BreakDemo\obj\Debug\BreakDemo.exe
+C:\workspace\spring\C#\BreakDemo\BreakDemo\obj\Debug\BreakDemo.pdb
