@@ -16,7 +16,7 @@ class GoToDemo
         }
         else if (chapter == 2)
         {
-            goto chapter2
+            goto chapter2;
         }
         else 
         {
