@@ -1,0 +1,6 @@
+C:\workspace\spring\C#\ForSumEven\ForSumEven\bin\Debug\ForSumEven.exe.config
+C:\workspace\spring\C#\ForSumEven\ForSumEven\bin\Debug\ForSumEven.exe
+C:\workspace\spring\C#\ForSumEven\ForSumEven\bin\Debug\ForSumEven.pdb
+C:\workspace\spring\C#\ForSumEven\ForSumEven\obj\Debug\ForSumEven.csproj.CoreCompileInputs.cache
+C:\workspace\spring\C#\ForSumEven\ForSumEven\obj\Debug\ForSumEven.exe
+C:\workspace\spring\C#\ForSumEven\ForSumEven\obj\Debug\ForSumEven.pdb
