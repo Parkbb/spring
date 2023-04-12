@@ -1,0 +1,6 @@
+C:\workspace\spring\C#\EnumerationTextbook\EnumerationTextbook\obj\Debug\Ctextbook.csproj.CoreCompileInputs.cache
+C:\workspace\spring\C#\EnumerationTextbook\EnumerationTextbook\obj\Debug\EnumerationTextbook.exe
+C:\workspace\spring\C#\EnumerationTextbook\EnumerationTextbook\obj\Debug\EnumerationTextbook.pdb
+C:\workspace\spring\C#\EnumerationTextbook\EnumerationTextbook\bin\Debug\EnumerationTextbook.exe.config
+C:\workspace\spring\C#\EnumerationTextbook\EnumerationTextbook\bin\Debug\EnumerationTextbook.exe
+C:\workspace\spring\C#\EnumerationTextbook\EnumerationTextbook\bin\Debug\EnumerationTextbook.pdb
