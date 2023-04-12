@@ -1,0 +1,7 @@
+C:\workspace\spring\C#\FunctionNote\FunctionNote\bin\Debug\FunctionNote.exe.config
+C:\workspace\spring\C#\FunctionNote\FunctionNote\bin\Debug\FunctionNote.exe
+C:\workspace\spring\C#\FunctionNote\FunctionNote\bin\Debug\FunctionNote.pdb
+C:\workspace\spring\C#\FunctionNote\FunctionNote\obj\Debug\FunctionNote.csproj.AssemblyReference.cache
+C:\workspace\spring\C#\FunctionNote\FunctionNote\obj\Debug\FunctionNote.csproj.CoreCompileInputs.cache
+C:\workspace\spring\C#\FunctionNote\FunctionNote\obj\Debug\FunctionNote.exe
+C:\workspace\spring\C#\FunctionNote\FunctionNote\obj\Debug\FunctionNote.pdb

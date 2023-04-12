@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4556293C-5453-4C86-97A3-936E82330BDD}</ProjectGuid>
+    <ProjectGuid>{2A35F29C-98E1-44BE-A5AB-F8F4ADBE9E31}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GoToDemo</RootNamespace>
-    <AssemblyName>GoToDemo</AssemblyName>
+    <RootNamespace>FunctionNote</RootNamespace>
+    <AssemblyName>FunctionNote</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GoToDemo.cs" />
+    <Compile Include="FunctionNote.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
