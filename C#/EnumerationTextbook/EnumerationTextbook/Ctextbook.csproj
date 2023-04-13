@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>EnumerationTextbook._27_Collection.CollectionEx</StartupObject>
+    <StartupObject>EnumerationTextbook._28_Generic.GenericEx</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,6 +53,7 @@
     <Compile Include="25_String\StringStudy.cs" />
     <Compile Include="26_Exception\TryCatch.cs" />
     <Compile Include="27_Collection\CollectionEx.cs" />
+    <Compile Include="28_Generic\GenericEx.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
