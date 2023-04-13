@@ -4,3 +4,4 @@ C:\workspace\spring\C#\EnumerationTextbook\EnumerationTextbook\obj\Debug\Enumera
 C:\workspace\spring\C#\EnumerationTextbook\EnumerationTextbook\bin\Debug\EnumerationTextbook.exe.config
 C:\workspace\spring\C#\EnumerationTextbook\EnumerationTextbook\bin\Debug\EnumerationTextbook.exe
 C:\workspace\spring\C#\EnumerationTextbook\EnumerationTextbook\bin\Debug\EnumerationTextbook.pdb
+C:\workspace\spring\C#\EnumerationTextbook\EnumerationTextbook\obj\Debug\Ctextbook.csproj.AssemblyReference.cache

@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>EnumerationTextbook._23_Enum.EnumAnimal</StartupObject>
+    <StartupObject>EnumerationTextbook._25_String.StringConcat</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,9 @@
   <ItemGroup>
     <Compile Include="23_Enum\EnumAnimal.cs" />
     <Compile Include="23_Enum\EnumerationTextbook.cs" />
+    <Compile Include="25_String\StringClass.cs" />
+    <Compile Include="25_String\StringConcat.cs" />
+    <Compile Include="25_String\StringStudy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
