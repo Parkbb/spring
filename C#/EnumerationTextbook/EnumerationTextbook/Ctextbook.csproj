@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>EnumerationTextbook._29_Null.NullEx</StartupObject>
+    <StartupObject>EnumerationTextbook._30_LINQ.LINQ_EX</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -55,6 +55,7 @@
     <Compile Include="27_Collection\CollectionEx.cs" />
     <Compile Include="28_Generic\GenericEx.cs" />
     <Compile Include="29_Null\NullEx.cs" />
+    <Compile Include="30_LINQ\LINQ_EX.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
