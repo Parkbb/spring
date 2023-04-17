@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>EnumerationTextbook._31_Algorithm.RankAlgorithm</StartupObject>
+    <StartupObject>EnumerationTextbook._31_Algorithm.MergeAlgorithm</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -59,9 +59,11 @@
     <Compile Include="31_Algorithm\AvgAlgorithm.cs" />
     <Compile Include="31_Algorithm\CountAlgorithm.cs" />
     <Compile Include="31_Algorithm\MaxAlgorithm.cs" />
+    <Compile Include="31_Algorithm\MergeAlgorithm.cs" />
     <Compile Include="31_Algorithm\MinAlgorithm.cs" />
     <Compile Include="31_Algorithm\NearAlgorithm.cs" />
     <Compile Include="31_Algorithm\RankAlgorithm.cs" />
+    <Compile Include="31_Algorithm\SearchAlgorithm.cs" />
     <Compile Include="31_Algorithm\SortAlgorithm.cs" />
     <Compile Include="31_Algorithm\SumAlorithm.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
