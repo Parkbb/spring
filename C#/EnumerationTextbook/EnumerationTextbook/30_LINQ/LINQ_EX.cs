@@ -18,6 +18,16 @@ namespace EnumerationTextbook._30_LINQ
             Console.WriteLine(numbers.Where(n => n % 2 == 0).Sum());
 
             Console.WriteLine(numbers.Select(x => { return x * 2; }).Sum());
+
+            /*
+             var q = from n in numbers
+                     where n % 2 == 0
+                     select n;
+
+            var qq = numbers.Where(n => n % 2 == 0);
+
+            LINQ 표현방식만 다르고 동일한 결과가 나옴
+             */
         }
     }
 }

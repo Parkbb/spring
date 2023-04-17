@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>EnumerationTextbook._30_LINQ.LINQ_EX</StartupObject>
+    <StartupObject>EnumerationTextbook._31_Algorithm.RankAlgorithm</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -56,6 +56,14 @@
     <Compile Include="28_Generic\GenericEx.cs" />
     <Compile Include="29_Null\NullEx.cs" />
     <Compile Include="30_LINQ\LINQ_EX.cs" />
+    <Compile Include="31_Algorithm\AvgAlgorithm.cs" />
+    <Compile Include="31_Algorithm\CountAlgorithm.cs" />
+    <Compile Include="31_Algorithm\MaxAlgorithm.cs" />
+    <Compile Include="31_Algorithm\MinAlgorithm.cs" />
+    <Compile Include="31_Algorithm\NearAlgorithm.cs" />
+    <Compile Include="31_Algorithm\RankAlgorithm.cs" />
+    <Compile Include="31_Algorithm\SortAlgorithm.cs" />
+    <Compile Include="31_Algorithm\SumAlorithm.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
