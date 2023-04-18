@@ -24,7 +24,7 @@ namespace EnumerationTextbook._31_Algorithm
 
 
             //[2] Process
-            while (i < M && j < N)
+            while (i < M && j < N) // 둘 중 하나라도 배열의 끝에 도달할 때까지
             {
                 if (first[i] <= second[j]) // 더 작은 값을 merge 배열에 저장
                 {

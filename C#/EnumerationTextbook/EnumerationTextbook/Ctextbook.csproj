@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>EnumerationTextbook._31_Algorithm.MergeAlgorithm</StartupObject>
+    <StartupObject>EnumerationTextbook._31_Algorithm.GroupAlgorithm</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -58,9 +58,11 @@
     <Compile Include="30_LINQ\LINQ_EX.cs" />
     <Compile Include="31_Algorithm\AvgAlgorithm.cs" />
     <Compile Include="31_Algorithm\CountAlgorithm.cs" />
+    <Compile Include="31_Algorithm\GroupAlgorithm.cs" />
     <Compile Include="31_Algorithm\MaxAlgorithm.cs" />
     <Compile Include="31_Algorithm\MergeAlgorithm.cs" />
     <Compile Include="31_Algorithm\MinAlgorithm.cs" />
+    <Compile Include="31_Algorithm\ModeAlgorithm.cs" />
     <Compile Include="31_Algorithm\NearAlgorithm.cs" />
     <Compile Include="31_Algorithm\RankAlgorithm.cs" />
     <Compile Include="31_Algorithm\SearchAlgorithm.cs" />
