@@ -18,6 +18,7 @@ namespace IndexerAndIterator
             get { return names[index]; }
             set { names[index] = value; }
         }
+        //[4] 반복기(이터레이터)
         public IEnumerator GetEnumerator()
         {
             for (int i = 0; i < names.Length; i++)

@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>IndexerAndIterator.Indexer</StartupObject>
+    <StartupObject>DelegateSample</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -74,6 +74,7 @@
     <Compile Include="37_Method\Car.cs" />
     <Compile Include="37_Method\Progran.cs" />
     <Compile Include="39_Indexer\IndexerAndIterator.cs" />
+    <Compile Include="40_Delegator\DelegateSample.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -90,6 +91,7 @@
     <Content Include="37_Method\TextFile1.txt" />
     <Content Include="38_Property\TextFile1.txt" />
     <Content Include="39_Indexer\TextFile1.txt" />
+    <Content Include="40_Delegator\TextFile1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
