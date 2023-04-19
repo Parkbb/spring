@@ -68,14 +68,19 @@
     <Compile Include="31_Algorithm\SearchAlgorithm.cs" />
     <Compile Include="31_Algorithm\SortAlgorithm.cs" />
     <Compile Include="31_Algorithm\SumAlorithm.cs" />
+    <Compile Include="33_NameSpace\NamespaceNote.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="34_Field\" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="26_Exception\Exception.txt" />
+    <Content Include="32_Object\TextFile1.txt" />
+    <Content Include="33_NameSpace\TextFile1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
