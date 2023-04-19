@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>EnumerationTextbook._31_Algorithm.GroupAlgorithm</StartupObject>
+    <StartupObject>IndexerAndIterator.Indexer</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -69,18 +69,27 @@
     <Compile Include="31_Algorithm\SortAlgorithm.cs" />
     <Compile Include="31_Algorithm\SumAlorithm.cs" />
     <Compile Include="33_NameSpace\NamespaceNote.cs" />
+    <Compile Include="34_Field\FieldEx.cs" />
+    <Compile Include="35_constructor\ConstructorEx.cs" />
+    <Compile Include="37_Method\Car.cs" />
+    <Compile Include="37_Method\Progran.cs" />
+    <Compile Include="39_Indexer\IndexerAndIterator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="34_Field\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="26_Exception\Exception.txt" />
     <Content Include="32_Object\TextFile1.txt" />
     <Content Include="33_NameSpace\TextFile1.txt" />
+    <Content Include="34_Field\TextFile1.txt" />
+    <Content Include="35_constructor\TextFile1.txt" />
+    <Content Include="36_DestructorAndGC\TextFile1.txt" />
+    <Content Include="37_Method\TextFile1.txt" />
+    <Content Include="38_Property\TextFile1.txt" />
+    <Content Include="39_Indexer\TextFile1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
