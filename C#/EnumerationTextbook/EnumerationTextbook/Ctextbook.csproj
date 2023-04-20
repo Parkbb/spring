@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>DelegateSample</StartupObject>
+    <StartupObject>EventAndDelegate.EventAndDelegate</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -75,6 +75,8 @@
     <Compile Include="37_Method\Progran.cs" />
     <Compile Include="39_Indexer\IndexerAndIterator.cs" />
     <Compile Include="40_Delegator\DelegateSample.cs" />
+    <Compile Include="41_Event\EventAndDelegateCar.cs" />
+    <Compile Include="41_Event\EventAndDelegate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -92,6 +94,7 @@
     <Content Include="38_Property\TextFile1.txt" />
     <Content Include="39_Indexer\TextFile1.txt" />
     <Content Include="40_Delegator\TextFile1.txt" />
+    <Content Include="41_Event\TextFile1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

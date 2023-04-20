@@ -25,7 +25,13 @@ class DelegateSample
         driver += GoLeft;
         driver += delegate () { Console.WriteLine("우회전"); };
         driver += () => Console.WriteLine("후진");
-        driver();
+        driver(); // 트리거
+
+        Action go = () => Console.WriteLine("운전");
+        go();
+
+        RunLambda(() => Console.WriteLine("매개 변수로 람다 식 전달"));
     }
+    static void RunLambda(Action action) => action();
 }
 
