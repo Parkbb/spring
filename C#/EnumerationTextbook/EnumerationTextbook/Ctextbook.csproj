@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>EnumerationTextbook._43_Inheritance.InheritanceDemo</StartupObject>
+    <StartupObject>EnumerationTextbook._46_Attribute.AttributeDemo</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -96,6 +96,10 @@
     <Compile Include="42_ClassETC\PartialClass\PartialClassDemo.cs" />
     <Compile Include="42_ClassETC\PartialClass\SecondDeveloper.cs" />
     <Compile Include="43_Inheritance\InheritanceDemo.cs" />
+    <Compile Include="44_Override\Override.cs" />
+    <Compile Include="45_Interface\Class1.cs" />
+    <Compile Include="46_Attribute\AttributeDemo.cs" />
+    <Compile Include="47_OOP\CarWorldDemo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -125,6 +129,9 @@
     <Content Include="39_Indexer\TextFile1.txt" />
     <Content Include="40_Delegator\TextFile1.txt" />
     <Content Include="41_Event\TextFile1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="48_Generic\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
