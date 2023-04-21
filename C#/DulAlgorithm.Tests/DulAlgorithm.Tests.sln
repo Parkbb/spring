@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DulAlgorithm.Tests", "DulAlgorithm.Tests\DulAlgorithm.Tests.csproj", "{155F1F52-6E12-48B4-B1E7-D45CDC08DAFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155F1F52-6E12-48B4-B1E7-D45CDC08DAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155F1F52-6E12-48B4-B1E7-D45CDC08DAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155F1F52-6E12-48B4-B1E7-D45CDC08DAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155F1F52-6E12-48B4-B1E7-D45CDC08DAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CCCA8A9-8C59-4B2B-A7A8-5B48250EC1FC}
+	EndGlobalSection
+EndGlobal
