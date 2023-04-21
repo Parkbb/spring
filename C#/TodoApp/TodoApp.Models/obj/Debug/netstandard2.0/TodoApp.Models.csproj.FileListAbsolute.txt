@@ -1,0 +1,10 @@
+C:\workspace\spring\C#\TodoApp\TodoApp.Models\bin\Debug\netstandard2.0\TodoApp.Models.deps.json
+C:\workspace\spring\C#\TodoApp\TodoApp.Models\bin\Debug\netstandard2.0\TodoApp.Models.dll
+C:\workspace\spring\C#\TodoApp\TodoApp.Models\bin\Debug\netstandard2.0\TodoApp.Models.pdb
+C:\workspace\spring\C#\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.csproj.AssemblyReference.cache
+C:\workspace\spring\C#\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\spring\C#\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.AssemblyInfoInputs.cache
+C:\workspace\spring\C#\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.AssemblyInfo.cs
+C:\workspace\spring\C#\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.csproj.CoreCompileInputs.cache
+C:\workspace\spring\C#\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.dll
+C:\workspace\spring\C#\TodoApp\TodoApp.Models\obj\Debug\netstandard2.0\TodoApp.Models.pdb

@@ -1,0 +1,10 @@
+C:\workspace\spring\C#\TodoApp\TodoApp.ConsoleApp\bin\Debug\TodoApp.ConsoleApp.exe.config
+C:\workspace\spring\C#\TodoApp\TodoApp.ConsoleApp\bin\Debug\TodoApp.ConsoleApp.exe
+C:\workspace\spring\C#\TodoApp\TodoApp.ConsoleApp\bin\Debug\TodoApp.ConsoleApp.pdb
+C:\workspace\spring\C#\TodoApp\TodoApp.ConsoleApp\bin\Debug\TodoApp.Models.dll
+C:\workspace\spring\C#\TodoApp\TodoApp.ConsoleApp\bin\Debug\TodoApp.Models.pdb
+C:\workspace\spring\C#\TodoApp\TodoApp.ConsoleApp\obj\Debug\TodoApp.ConsoleApp.csproj.AssemblyReference.cache
+C:\workspace\spring\C#\TodoApp\TodoApp.ConsoleApp\obj\Debug\TodoApp.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\workspace\spring\C#\TodoApp\TodoApp.ConsoleApp\obj\Debug\TodoApp.ConsoleApp.csproj.CopyComplete
+C:\workspace\spring\C#\TodoApp\TodoApp.ConsoleApp\obj\Debug\TodoApp.ConsoleApp.exe
+C:\workspace\spring\C#\TodoApp\TodoApp.ConsoleApp\obj\Debug\TodoApp.ConsoleApp.pdb

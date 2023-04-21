@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TodoApp.Models
+build_property.ProjectDir = C:\workspace\spring\C#\TodoApp\TodoApp.Models\
