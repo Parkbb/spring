@@ -1,0 +1,10 @@
+C:\workspace\spring\C#\DulAlgorithm\DulAlgorithm\bin\Debug\netstandard2.1\DulAlgorithm.deps.json
+C:\workspace\spring\C#\DulAlgorithm\DulAlgorithm\bin\Debug\netstandard2.1\DulAlgorithm.dll
+C:\workspace\spring\C#\DulAlgorithm\DulAlgorithm\bin\Debug\netstandard2.1\DulAlgorithm.pdb
+C:\workspace\spring\C#\DulAlgorithm\DulAlgorithm\obj\Debug\netstandard2.1\DulAlgorithm.csproj.AssemblyReference.cache
+C:\workspace\spring\C#\DulAlgorithm\DulAlgorithm\obj\Debug\netstandard2.1\DulAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\spring\C#\DulAlgorithm\DulAlgorithm\obj\Debug\netstandard2.1\DulAlgorithm.AssemblyInfoInputs.cache
+C:\workspace\spring\C#\DulAlgorithm\DulAlgorithm\obj\Debug\netstandard2.1\DulAlgorithm.AssemblyInfo.cs
+C:\workspace\spring\C#\DulAlgorithm\DulAlgorithm\obj\Debug\netstandard2.1\DulAlgorithm.csproj.CoreCompileInputs.cache
+C:\workspace\spring\C#\DulAlgorithm\DulAlgorithm\obj\Debug\netstandard2.1\DulAlgorithm.dll
+C:\workspace\spring\C#\DulAlgorithm\DulAlgorithm\obj\Debug\netstandard2.1\DulAlgorithm.pdb

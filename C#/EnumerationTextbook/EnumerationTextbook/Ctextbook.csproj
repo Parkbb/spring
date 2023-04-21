@@ -100,6 +100,7 @@
     <Compile Include="45_Interface\Class1.cs" />
     <Compile Include="46_Attribute\AttributeDemo.cs" />
     <Compile Include="47_OOP\CarWorldDemo.cs" />
+    <Compile Include="49_Extension Method\Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -129,6 +130,8 @@
     <Content Include="39_Indexer\TextFile1.txt" />
     <Content Include="40_Delegator\TextFile1.txt" />
     <Content Include="41_Event\TextFile1.txt" />
+    <Content Include="49_Extension Method\TextFile1.txt" />
+    <Content Include="50_Dynamic\TextFile1.txt" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="48_Generic\" />
