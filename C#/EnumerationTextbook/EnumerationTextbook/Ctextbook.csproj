@@ -48,7 +48,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>EnumerationTextbook._46_Attribute.AttributeDemo</StartupObject>
+    <StartupObject>EnumerationTextbook._55_Thread.ThreadEx</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -101,6 +101,7 @@
     <Compile Include="46_Attribute\AttributeDemo.cs" />
     <Compile Include="47_OOP\CarWorldDemo.cs" />
     <Compile Include="49_Extension Method\Class1.cs" />
+    <Compile Include="55_Thread\ThreadEx.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -132,9 +133,13 @@
     <Content Include="41_Event\TextFile1.txt" />
     <Content Include="49_Extension Method\TextFile1.txt" />
     <Content Include="50_Dynamic\TextFile1.txt" />
+    <Content Include="51_Tuple\TextFile1.txt" />
+    <Content Include="53_TestProject\TextFile1.txt" />
+    <Content Include="54_Nuget\TextFile1.txt" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="48_Generic\" />
+    <Folder Include="52_ClassLibrary_NETStandard\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

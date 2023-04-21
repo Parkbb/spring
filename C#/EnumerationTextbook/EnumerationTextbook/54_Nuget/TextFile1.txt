@@ -1,0 +1,12 @@
+﻿Nuget 패키지
+
+닷넷 패키지 관리자
+	DLL 파일과 메타데이터
+
+https://nuget.org
+	NuGet 갤러리
+
+Public 패키지 공유
+	private 패키지 공유
+		유료 패키지
+		개인 패키지 관리
