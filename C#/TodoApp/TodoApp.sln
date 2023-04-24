@@ -9,7 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{8B1F3D6A-5C95-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp.ConsoleApp", "TodoApp.ConsoleApp\TodoApp.ConsoleApp.csproj", "{7D50DA0D-6611-48E2-AA95-C3666B23AC66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp.WinFormsApp", "TodoApp.WinFormsApp\TodoApp.WinFormsApp.csproj", "{C22B53AD-510F-4A5E-9BE8-9E91EE5F63DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApp.WinFormsApp", "TodoApp.WinFormsApp\TodoApp.WinFormsApp.csproj", "{C22B53AD-510F-4A5E-9BE8-9E91EE5F63DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{4FD7CA55-78A8-45FF-8B60-0200C0EDE561}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
