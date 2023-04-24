@@ -14,3 +14,11 @@ C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.GenerateReso
 C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
 C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\FirstApp.exe
 C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch2.g.cs
+C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch2.baml
+C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch3.g.cs
+C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch4.g.cs
+C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch3.baml
+C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch4.baml
+C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch5.g.cs
+C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch5.baml
