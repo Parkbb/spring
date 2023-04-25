@@ -30,3 +30,9 @@ C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch8.g.cs
 C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch8.baml
 C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch9.g.cs
 C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch9.baml
+C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch10.g.cs
+C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch11.g.cs
+C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch10.baml
+C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch11.baml
+C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch12.g.cs
+C:\workspace\spring\WPF\FirstApp\FirstApp\obj\Debug\ch12.baml
